@@ -1,3 +1,3 @@
 # My Certificates
 
-List of all my courses and certificates ive recieved.
+List of all my courses completed and certificates ive recieved.
