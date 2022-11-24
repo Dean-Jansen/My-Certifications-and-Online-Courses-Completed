@@ -1,8 +1,7 @@
 # Courses & Certificates
 
-Collection of Certificates and awards received from courses i've completed.
+Collection Of Certificates and Awards Received From Courses I've Completed.
 
-[Click here to view my full CV & Online portfolio](https://www.royalweb.co.za)
-
+[Click Here To View My Full CV & Online Portfolio](https://www.royalweb.co.za)
 
 
