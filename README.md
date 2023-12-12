@@ -6,6 +6,7 @@ Welcome to my personal repository where I've compiled a collection of certificat
 <hr>
 
 ## My credly.com badges
+### Verify on Credly: https://www.credly.com/users/dean-jansen/badges
 
 <img align="left" src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="170" height="170"/>
 <img align="left" src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png" width="170" height="170"/>
